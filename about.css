@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: rgb(198, 198, 198);
+}
+.nav-bar ul{
+    background-color: #f57224;
+    list-style-type: none;
+    overflow: hidden;
+padding: 20px;
+height: 72.5px;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+    font-size: 17pt;
+
+    padding: 15px;
+    position: relative;
+    top: 15px;
+    border-radius: 11px;
+   
+    
+}
+.nav-bar a:hover{
+ 
+    color: bisque;
+}
+.nav-bar li{
+    float: right;
+    padding: 11px;
+    
+}
+.logo{
+    float: left;
+    background-color: #f57224;
+    
+}
+
+
+.quote{
+    width: 70%;
+    position: relative;
+    left: 20%;
+}
+.footer img{
+    width: 100%;
+}
